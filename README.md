@@ -4,7 +4,7 @@ Google-Maps-Store-Locator
 Action Items followed to create a Store locator App
 
 Create Wireframe
-![Alt text](images/Wireframe.pdf?raw=true "Title")
+![Alt text](images/GoogleMapsStoreLocator_Wireframe.pdf?raw=true "Title")
 
 Set up the base HTML structure -
 
